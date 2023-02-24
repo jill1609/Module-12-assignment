@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 ----
-The purpose of the analysis here is to determine the crediworthiness of borrowers at a peer-to-peer lending services company. The task at hand included using the Logistic Regression model with the original data, and then using it a second time with resampled data in order to predict the healthy loans and high risk loans for credit analysis purposes. 
+The purpose of the analysis here is to determine the creditworthiness of borrowers at a peer-to-peer lending services company. The task at hand included using the Logistic Regression model with the original data, and then using it a second time with resampled data in order to predict the healthy loans and high risk loans for credit analysis purposes. 
 
 While using the Logistic Regression model, the parameters used for an in-depth credit analysis are balanced accuracy score, confusion matrix and classification report. These parameters put together, portray a very clear picture of how accurate and useful the Logitic Regression model can be for the purpose of credit analysis. 
 
